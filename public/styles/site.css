@@ -1,4 +1,4 @@
-/* Reset + Base */
+/* Main CSS for html page */
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@
     color: #333;
   }
   
-  /* Header */
+  /* H1 */
   h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
