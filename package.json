@@ -1,0 +1,15 @@
+{
+  "name": "joke-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brittany Wiedow",
+  "license": "ISC",
+  "description": "joke-api assignment",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

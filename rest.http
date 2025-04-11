@@ -1,0 +1,3 @@
+//https://www.naukri.com/code360/library/rest-client-in-vs-code-pycharm-and-intellij
+
+GET http://localhost:3000/api/v1/random-joke
